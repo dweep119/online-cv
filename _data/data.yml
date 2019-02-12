@@ -94,14 +94,16 @@ experiences:
 
           - Bullet point
           - Bullet point
+          
 
     - role: Software Engineer
       time: April 2017 - July 2018
       company: Office Beacon
       details: |
         As FULL STACK WEB DEVELOPER I needs to works with both part Front-end
-        and Back-end.During project i also needs to learn new technologies as 
-        per project requirement like R&D work.
+        and Back-end.During project I also needs to learn new technologies as 
+        per project requirement like R&D work, where I am working on CRM module.
+        In it we make API in Feathers.js, VIEW in Vue.js and Store DATA in RethinkDB.
 
 projects:
     title: Projects
