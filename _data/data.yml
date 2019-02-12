@@ -52,30 +52,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. I am currently working as a Software Developer in Office Beacon AS Pvt Ltd. I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best utilize my skills for the development of my career and for the growth of the organization.
 
       Second paragraph if required.
 
 education:
     - degree: Bachelor of Engineering(Comp.)
       university: Parul Institute of Engg. And Tech.,
-      time: 2017
-      CGPA: 7.87
+      time: 2017 with 7.87 CGPA
 
     - degree: Higher Secondary Certificate
       university: HSEB
-      time: 2013
-      details: 63 %
-
+      time: 2013 with 63%
     
     - degree: Secondary School Certificate
       university: GSEB
-      time: 2011
-      details: 68 %
+      time: 2011 with 68%
 
 experiences:
     - role: Software Developer
@@ -94,7 +86,7 @@ experiences:
 
           - Bullet point
           - Bullet point
-          
+
 
     - role: Software Engineer
       time: April 2017 - July 2018
