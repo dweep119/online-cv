@@ -52,9 +52,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. I am currently working as a Software Developer in Office Beacon AS Pvt Ltd. I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best utilize my skills for the development of my career and for the growth of the organization.
-
-      Second paragraph if required.
+      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. I am currently working as a Software Developer in Actonate IT Solutions Pvt Ltd. I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best utilize my skills for the development of my career and for the growth of the organization.
 
 education:
     - degree: Bachelor of Engineering(Comp.)
@@ -84,9 +82,6 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
-
 
     - role: Software Engineer
       time: April 2017 - July 2018
@@ -97,33 +92,42 @@ experiences:
         per project requirement like R&D work, where I am working on CRM module.
         In it we make API in Feathers.js, VIEW in Vue.js and Store DATA in RethinkDB.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Intern
+      time: January 2017 - March 2018
+      company: Odoo India (Tiny ERP Pvt Ltd)
+      details: |
+        As Intern I learn many things here like Python, HTML, CSS, JavaScript & jQuery.
+        Where I am also learn how to make webview and mobview screens and how to handle it.
+        Also they give me task regarding fix that type of issues.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Achievements
