@@ -18,8 +18,8 @@ sidebar:
     # website: blog.webjeda.com #do not add http://
     linkedin: dweep-patel-6a9314119
     github: dweep119
-    gitlab: dweep119
-    bitbucket: dweep119
+    # gitlab: dweep119
+    # bitbucket: dweep119
     # twitter: '@webjeda'
     stack-overflow: 7820923/dweep
     codewars:
@@ -60,7 +60,7 @@ education:
       time: 2017 with 7.87 CGPA
 
     - degree: Higher Secondary Certificate
-      university: HSEB
+      university: GHSEB
       time: 2013 with 63%
     
     - degree: Secondary School Certificate
@@ -73,7 +73,7 @@ experiences:
       company: Actonate IT Solutions Pvt Ltd
       details: |
         In this organization I am working on two different projects. First is PolkaDot it is product of it.
-        It is nothing but, Admin Panel of eCommerce websites. And Second is working on PowerBI which is tool of Microsoft 
+        It is Admin Panel of eCommerce websites. And Second is working on PowerBI which is tool of Microsoft 
         for Visualization.
 
 
@@ -83,7 +83,7 @@ experiences:
       details: |
         As FULL STACK WEB DEVELOPER I needs to works with both part Front-end
         and Back-end.During project I also needs to learn new technologies as 
-        per project requirement like R&D work, where I am working on CRM module.
+        per project requirement like R&D work, where I have worked on CRM module.
         In it we make API in Feathers.js, VIEW in Vue.js and Store DATA in RethinkDB.
 
 
@@ -91,8 +91,8 @@ experiences:
       time: January 2017 - March 2018
       company: Odoo India (Tiny ERP Pvt Ltd)
       details: |
-        As Intern I learn many things here like Python, HTML, CSS, JavaScript & jQuery.
-        Where I am also learn how to make webview and mobview screens and how to handle it.
+        As Intern I learnt many things like Python, HTML, CSS, JavaScript & jQuery.
+        Where I also learnt how to make webview and mobview screens and how to handle it.
         Also they give me task regarding fix that type of issues.
 
 # projects:
