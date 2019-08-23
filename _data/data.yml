@@ -25,10 +25,10 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
-    skills:
-    title: Skills &amp; Proficiency
+#     skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
+    skills:
       - name: Angular
         level: 75%
     
