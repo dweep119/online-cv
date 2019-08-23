@@ -24,34 +24,6 @@ sidebar:
     stack-overflow: 7820923/dweep
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    
-#     skills:
-#     title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Angular
-        level: 75%
-    
-      - name: React
-        level: 75%
-
-      - name: Vue.js
-        level: 70%
-
-      - name: Node.js
-        level: 70%
-
-      - name: Javascript & jQuery
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 90%
-
-      - name: C & C++
-        level: 80%
-
-      - name: Rethink DB,Mongo DB &    My SQL
-        level: 70%
 
     languages:
       - idiom: Gujarati
@@ -185,6 +157,35 @@ publications:
       - title: Attended AutoBotz AVR a workshop 
         authors: By TECHNOPHILIA SYSTEMS
         conference: 2013
+        
+        
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Angular
+        level: 75%
+    
+      - name: React
+        level: 75%
+
+      - name: Vue.js
+        level: 70%
+
+      - name: Node.js
+        level: 70%
+
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: C & C++
+        level: 80%
+
+      - name: Rethink DB,Mongo DB &    My SQL
+        level: 70%
 
 
 
