@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: dweeppatel123@gmail.com
-    phone: +91 8200458911
+#     phone: +91 8200458911
     mobile: +91 9978532084
     # website: blog.webjeda.com #do not add http://
     linkedin: dweep-patel
@@ -69,7 +69,15 @@ education:
 
 experiences:
     - role: Software Developer
-      time: July 2018 - Present
+      time: May 2019 - Present
+      company: KOREIOT SOLUTIONS PRIVATE LIMITED
+      details: |
+        Here I am working on AngularJS to build Web App as a frontEnd Developer. We create Solutions Platform,
+        where we give our pre-built solution templates for popular use cases which can be easily customised using 
+        the graphical interface to suit specific business needs. Users can optionally derive their own solutions.
+        
+    - role: Software Developer
+      time: July 2018 - April 2019
       company: Actonate IT Solutions Pvt Ltd
       details: |
         In this organization I am working on two different projects. First is PolkaDot it is product of it.
@@ -151,14 +159,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: React.js
-        level: 80%
+        - name: Angular
+        level: 75%
+    
+      - name: React
+        level: 75%
 
       - name: Vue.js
-        level: 75%
+        level: 70%
 
       - name: Node.js
-        level: 75%
+        level: 70%
 
       - name: Javascript & jQuery
         level: 80%
@@ -167,7 +178,7 @@ skills:
         level: 90%
 
       - name: C & C++
-        level: 85%
+        level: 80%
 
       - name: Rethink DB,Mongo DB &    My SQL
         level: 70%
