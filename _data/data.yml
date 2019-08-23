@@ -52,7 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. I am currently working as a Software Developer in Actonate IT Solutions Pvt Ltd. I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best utilize my skills for the development of my career and for the growth of the organization.
+      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. 
+      I am currently working as a Software Developer in KOREIOT SOLUTIONS PRIVATE LIMITED. 
+      I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best 
+      utilize my skills for the development of my career and for the growth of the organization.
 
 education:
     - degree: Bachelor of Engineering(Comp.)
@@ -159,7 +162,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-        - name: Angular
+      - name: Angular
         level: 75%
     
       - name: React
