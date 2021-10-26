@@ -52,10 +52,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have completed BE in Computer Science with 7.87 CGPA from Parul Institute of Engineering and Technology. 
-      I am currently working as a Software Developer in KOREIOT SOLUTIONS PRIVATE LIMITED. 
+      Experienced Full Stack Engineer with a demonstrated history of working in the information technology and services industry. 
+      Skilled in ReactJS, Angular, Vue.js, NodeJS, Javascript & jQuery, Mongo DB & My SQL, AWS, and HTML & CSS. 
       I am seeking for an opportunity to work in a dynamic, challenging environment wherein I can best 
       utilize my skills for the development of my career and for the growth of the organization.
+      Strong engineering professional with a Bachelor of Engineering - CSE from Parul Institute of Engineering and Technology.
 
 education:
     - degree: Bachelor of Engineering(Comp.)
@@ -72,7 +73,7 @@ education:
 
 experiences:
     - role: Software Developer
-      time: May 2019 - Present
+      time: May 2019 - March 2021
       company: KOREIOT SOLUTIONS PRIVATE LIMITED
       details: |
         Here I am working on Angular to build Web App as a frontEnd Developer. We create Solutions Platform,
@@ -176,7 +177,7 @@ skills:
         level: 70%
 
       - name: Javascript & jQuery
-        level: 80%
+        level: 77%
 
       - name: HTML5 & CSS
         level: 90%
@@ -184,7 +185,7 @@ skills:
       - name: C & C++
         level: 80%
 
-      - name: Rethink DB,Mongo DB &    My SQL
+      - name: Mongo DB & My SQL
         level: 70%
 
 
