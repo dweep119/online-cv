@@ -73,7 +73,7 @@ education:
 
 experiences:
     - role: Software Developer
-      time: May 2019 - March 2021
+      time: May 2019 - Present
       company: KOREIOT SOLUTIONS PRIVATE LIMITED
       details: |
         Here I am working on Angular to build Web App as a frontEnd Developer. We create Solutions Platform,
@@ -164,16 +164,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Angular
-        level: 75%
-    
       - name: React
+        level: 80%
+    
+      - name: Node.js
         level: 75%
 
-      - name: Vue.js
+      - name: Python
         level: 70%
 
-      - name: Node.js
+      - name: Django
         level: 70%
 
       - name: Javascript & jQuery
